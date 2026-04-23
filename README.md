@@ -62,7 +62,7 @@ It automates household tasks and allows remote control via a mobile app.
 ## 📷 Project Images
 
 <p align="center">
-  <img src="images/circuit.jpg" width="300"/>
+  <img src="Images/System Diagram.jpeg" width="300"/>
   <img src="images/system.jpg" width="300"/>
 </p>
 
