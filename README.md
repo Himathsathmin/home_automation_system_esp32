@@ -63,13 +63,14 @@ It automates household tasks and allows remote control via a mobile app.
 
 
 <p align="center">
-  <img src="images/circuit.jpg" width="300"/>
-  <img src="images/system1.jpg" width="300"/>
+  <img src="Images/System Diagram.jpeg" width="300"/>
+  <img src="Images/System(1).jpeg" width="300"/>
+   <img src="Images/System(2).jpeg" width="300"/>
 </p>
 
 <p align="center">
-  <img src="images/system2.jpg" width="300"/>
-  <img src="images/app.jpg" width="300"/>
+  <img src="Images/System(3).jpeg" width="300"/>
+  <img src="Images/Blynk Iot.jpeg width="300"/>
 </p>
 
 ---
