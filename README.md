@@ -70,7 +70,7 @@ It automates household tasks and allows remote control via a mobile app.
 
 <p align="center">
   <img src="Images/System(3).jpeg" width="300"/>
-  <img src="Images/Blynk Iot.jpeg width="300"/>
+  <img src="Images/Blynk Iot.jpeg" width="300"/>
 </p>
 
 ---
