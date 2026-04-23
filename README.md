@@ -88,8 +88,44 @@ It automates household tasks and allows remote control via a mobile app.
 
 ### 2️⃣ Setup Credentials
 
-```cpp
+<!--```cpp
 #define BLYNK_AUTH_TOKEN "YOUR_TOKEN"
 char ssid[] = "YOUR_WIFI";
-char pass[] = "YOUR_PASSWORD";
+char pass[] = "YOUR_PASSWORD";-->
+
+### 3️⃣ Run Project
+
+1. Connect ESP32
+2. Upload code
+3. Power the system
+4. Monitor via Blynk app
+
+---
+
+## 📊 System Flow
+
+* Sensor detects input
+* ESP32 processes data
+* Action triggered (servo/light)
+* Data sent to mobile app
+
+---
+
+## 👨‍💻 Author
+
+**Himath Sathmin**
+🎓 IT Undergraduate
+📊 Aspiring Data Scientist & Software Engineer
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
+
+```
+
+---
+
+
 
